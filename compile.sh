@@ -1,0 +1,1 @@
+kotlinc $1 -include-runtime -d output.jar
